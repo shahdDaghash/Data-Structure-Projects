@@ -1,6 +1,3 @@
-/*
-/ Shahd Abu-Daghash _ 1191448 _ 2
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
